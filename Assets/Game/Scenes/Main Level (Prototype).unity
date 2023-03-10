@@ -22108,6 +22108,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 477940645, guid: 8a575636bcbb9254b9635656eca5aae8, type: 3}
+      propertyPath: m_Enabled
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 478108933, guid: 8a575636bcbb9254b9635656eca5aae8, type: 3}
       propertyPath: m_Interpolate
       value: 1
@@ -22115,6 +22119,10 @@ PrefabInstance:
     - target: {fileID: 478108933, guid: 8a575636bcbb9254b9635656eca5aae8, type: 3}
       propertyPath: m_CollisionDetection
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 661639436, guid: 8a575636bcbb9254b9635656eca5aae8, type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1773816869, guid: 8a575636bcbb9254b9635656eca5aae8, type: 3}
       propertyPath: healthBar
